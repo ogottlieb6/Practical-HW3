@@ -1,11 +1,11 @@
 from algosdk import mnemonic
 
 # TODO
-PINATA_API_KEY = "your-key-here"
-PINATA_API_SECRET = "your-secret-here"
+PINATA_API_KEY = "c878d9475c8c66e35638"
+PINATA_API_SECRET = "e1e560f971ae4f5e85eef13c6d9168736fa76fa445135ec2591b21c9c7fb709c"
 
 # TODO
-PURESTAKE_API_KEY = "your-purestake-key-here"
+PURESTAKE_API_KEY = "ThUDJJfXvkauV65b58gHwaKu8bpGECgB16UOIoI0"
 
 # TODO
 account_mnemonic = "your-mnemonic-here" 
