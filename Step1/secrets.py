@@ -8,7 +8,7 @@ PINATA_API_SECRET = "e1e560f971ae4f5e85eef13c6d9168736fa76fa445135ec2591b21c9c7f
 PURESTAKE_API_KEY = "ThUDJJfXvkauV65b58gHwaKu8bpGECgB16UOIoI0"
 
 # TODO
-account_mnemonic = "your-mnemonic-here" 
+account_mnemonic = "obey rug turn alcohol credit quit physical atom code shiver salon place simple already verb royal choose faculty brave step annual unfold vote able bundle" 
 account_private_key = mnemonic.to_private_key(account_mnemonic)
 account_address = mnemonic.to_public_key(account_mnemonic)
 
